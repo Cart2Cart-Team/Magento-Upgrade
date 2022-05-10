@@ -1,4 +1,4 @@
-# Wix to Shopify 
+# Magento Upgrade
 ## Overview
 Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from current Magento store to new Magento store swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your current Magento store entities, including products, orders, customers, etc. to new Magento store in a totally automated way.
 ## What Data Can be Migrated?
