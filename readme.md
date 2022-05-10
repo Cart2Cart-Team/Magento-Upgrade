@@ -1,6 +1,6 @@
 # Magento Upgrade
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from current Magento store to new Magento store swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your current Magento store entities, including products, orders, customers, etc. to new Magento store in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [current Magento store to new Magento store](https://app.shopping-cart-migration.com/migrations/wizard#Magento-Magento?utm_source=github-articles&utm_medium=articles&utm_term=magento-upgrade-medium&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your current Magento store entities, including products, orders, customers, etc. to new Magento store in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from current Magento to new Magento store:
 * **_Products_** (ID, Reference code, Short Description, Full Description, Status, Manufacturer, Tax Class, Sort Order, Sort Order in Category, Price, Special Price, URL, Meta Title, Meta Keywords, Meta Description, Attributes, Downloadable Products, Product Tags, Variants, Base Image, Additional Images, Cover, Quantity, Backorder);
@@ -13,7 +13,7 @@ Cart2Cart will assist you in moving the following data entities from current Mag
 * **_Reviews_** (Created Date, Rate, User Name, Comment, Product, Title);
 * **_Blog Posts_** (Title, Full Description, Short Description, Tags, SEO URL, Author, Post Redirects, Images).
 
-To get the full list of transferable entities, please check the table here.
+To get the full list of transferable entities, please check the table [here.](https://app.shopping-cart-migration.com/migrations/wizard#Magento-Magento?utm_source=github-articles&utm_medium=articles&utm_term=magento-upgrade-medium&utm_campaign=github.com)
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -34,9 +34,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Start Free Demo** to see how Cart2Cart works. For this, first transfer 10 products in 15 minutes so you can check that the transfer works as you envisaged.  
 * **Launch the Full migration** to start the Magento database transfer to your new Magento store.
 
-Watch our video tutorial to see how easy it is to automatically upgrade Magento store with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://www.youtube.com/watch?v=jctg3y5ocM0?utm_source=github-articles&utm_medium=articles&utm_term=magento-upgrade&utm_campaign=github.com) to see how easy it is to automatically upgrade Magento store with the help of the Cart2Cart migration tool.
 
-Check the detailed guide on Magento upgrade migration.
+Check the detailed [guide on Magento upgrade migration.](https://www.shopping-cart-migration.com/migration-guides/updating-from-magento-1-to-magento-2-a-complete-how-to-guide?utm_source=github-articles&utm_medium=articles&utm_term=magento-upgrade&utm_campaign=github.com)
 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
@@ -45,4 +45,4 @@ Check the detailed guide on Magento upgrade migration.
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to new Magento store and the additional options you select.
 * **Free demo available.** Move a limited number of data from current Magento to new Magento store just within 30 minutes. No risk involved, no credit card required.
-* **Extensive FAQ section** that provides customers with the answers to the most common questions concerning Magento migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/9-magento?utm_source=github-articles&utm_medium=articles&utm_term=magento-upgrade&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning Magento migration.
